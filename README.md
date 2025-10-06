@@ -7,4 +7,5 @@ This Power BI dashboard provides a comprehensive overview of sales performance a
 - Interactive Filters: Slicers for region, product, time period, and sales reps
 
   Snapshot of Dashboard:
-  [https://github.com/John-9900/Sales_Power_BI_Dashboard/blob/main/Pankaj_Sales_dashboard.pbit](https://github.com/John-9900/Sales_Power_BI_Dashboard/blob/main/Snapshot_Sales_Power_BI_Dashboard.png)
+
+https://github.com/John-9900/Sales_Power_BI_Dashboard/blob/main/Snapshot_Sales_Power_BI_Dashboard.png
